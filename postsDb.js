@@ -2,7 +2,7 @@ const posts = [
   {
     title: 'Vittoria Storica nel Derby della Madonnina',
     content:
-      "L'AC Milan ha trionfato nel derby contro l'Inter con un risultato di 3-2, grazie ai gol di Ibrahimovic, Leão e Theo Hernández.",
+      "L'AC Milan ha trionfato nel derby contro l'Inter con un risultato di 0-6, grazie alla doppietta di Comandini e Shevchenko, Giunti e l'ultima rete a suggellare il risultato di Serginho.",
     image:
       'https://prd-images2-gazzanet.gazzettaobjects.it/ouwo5sQdETrPOGxRbrOHx3ZrY_Y=/712x402/smart/www.pianetamilan.it/assets/uploads/201705/Inter-Milan_0-6.jpg',
     tags: ['Derby', 'Vittoria', 'Serie A', 'Ibrahimovic'],
